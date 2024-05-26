@@ -119,9 +119,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Espero que este script seja útil para seus projetos. Se você tiver alguma dúvida ou sugestão, por favor, entre em contato.
-
-![Ilustração Técnica do Fluxo de Trabalho](sandbox:/mnt/data/A_technical_illustration_showing_a_workflow_of_dow.png)
